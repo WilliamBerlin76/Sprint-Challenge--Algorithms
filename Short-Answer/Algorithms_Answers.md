@@ -22,4 +22,6 @@ c) O(n)
     continue the above steps untill the lowest floor is found where the egg breaks, this floor is 'f'
         halves of the bulding that are 'halved' out, will not be tested again
 
+    
+    Time complexity of above: O(log n)
 
